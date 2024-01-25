@@ -1,0 +1,13 @@
+/*html{
+    background-color: red;
+}*/
+body{
+    min-height: 100vh;
+    background-color: #ffffff;
+}
+
+/** three ways to add slds
+
+1. Using CDn
+2.Bu copying csss file
+3.by installing the package through npn and copy that file to assets **/
